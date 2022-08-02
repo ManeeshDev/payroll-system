@@ -1,0 +1,65 @@
+D:\Navod19\MyProjects\VB\PayRoll\PayRoll\bin\Debug\PayRoll.exe.config
+D:\Navod19\MyProjects\VB\PayRoll\PayRoll\bin\Debug\PayRoll.exe
+D:\Navod19\MyProjects\VB\PayRoll\PayRoll\bin\Debug\PayRoll.pdb
+D:\Navod19\MyProjects\VB\PayRoll\PayRoll\bin\Debug\PayRoll.xml
+D:\Navod19\MyProjects\VB\PayRoll\PayRoll\obj\Debug\PayRoll.frmLogin.resources
+D:\Navod19\MyProjects\VB\PayRoll\PayRoll\obj\Debug\PayRoll.Resources.resources
+D:\Navod19\MyProjects\VB\PayRoll\PayRoll\obj\Debug\PayRoll.vbproj.GenerateResource.Cache
+D:\Navod19\MyProjects\VB\PayRoll\PayRoll\obj\Debug\PayRoll.exe
+D:\Navod19\MyProjects\VB\PayRoll\PayRoll\obj\Debug\PayRoll.xml
+D:\Navod19\MyProjects\VB\PayRoll\PayRoll\obj\Debug\PayRoll.pdb
+D:\Navod19\MyProjects\VB\PayRoll\PayRoll\obj\Debug\PayRoll.frmSalary.resources
+D:\MP_ Works\VB @VTA_DIP_2019\PayRoll\PayRoll\bin\Debug\PayRoll.exe.config
+D:\MP_ Works\VB @VTA_DIP_2019\PayRoll\PayRoll\obj\Debug\PayRoll.exe
+D:\MP_ Works\VB @VTA_DIP_2019\PayRoll\PayRoll\obj\Debug\PayRoll.xml
+D:\MP_ Works\VB @VTA_DIP_2019\PayRoll\PayRoll\obj\Debug\PayRoll.pdb
+D:\MP_ Works\VB @VTA_DIP_2019\PayRoll\PayRoll\bin\Debug\PayRoll.exe
+D:\MP_ Works\VB @VTA_DIP_2019\PayRoll\PayRoll\bin\Debug\PayRoll.pdb
+D:\MP_ Works\VB @VTA_DIP_2019\PayRoll\PayRoll\bin\Debug\PayRoll.xml
+D:\MP_ Works\VB @VTA_DIP_2019\PayRoll\PayRoll\obj\Debug\PayRoll.frmLogin.resources
+D:\MP_ Works\VB @VTA_DIP_2019\PayRoll\PayRoll\obj\Debug\PayRoll.frmSalary.resources
+D:\MP_ Works\VB @VTA_DIP_2019\PayRoll\PayRoll\obj\Debug\PayRoll.Resources.resources
+D:\MP_ Works\VB @VTA_DIP_2019\PayRoll\PayRoll\obj\Debug\PayRoll.vbproj.GenerateResource.Cache
+F:\VB @VTA_DIP_2019\PayRoll\PayRoll\bin\Debug\PayRoll.exe.config
+F:\VB @VTA_DIP_2019\PayRoll\PayRoll\obj\Debug\PayRoll.exe
+F:\VB @VTA_DIP_2019\PayRoll\PayRoll\obj\Debug\PayRoll.xml
+F:\VB @VTA_DIP_2019\PayRoll\PayRoll\obj\Debug\PayRoll.pdb
+D:\Manish\VB @VTA_DIP_2019\PayRoll\PayRoll\bin\Debug\PayRoll.exe.config
+D:\Manish\VB @VTA_DIP_2019\PayRoll\PayRoll\obj\Debug\PayRoll.exe
+D:\Manish\VB @VTA_DIP_2019\PayRoll\PayRoll\obj\Debug\PayRoll.xml
+D:\Manish\VB @VTA_DIP_2019\PayRoll\PayRoll\obj\Debug\PayRoll.pdb
+D:\Manish\VB @VTA_DIP_2019\PayRoll\PayRoll\bin\Debug\PayRoll.exe
+D:\Manish\VB @VTA_DIP_2019\PayRoll\PayRoll\bin\Debug\PayRoll.pdb
+D:\Manish\VB @VTA_DIP_2019\PayRoll\PayRoll\bin\Debug\PayRoll.xml
+D:\Manish\VB @VTA_DIP_2019\PayRoll\PayRoll\obj\Debug\PayRoll.frmLogin.resources
+D:\Manish\VB @VTA_DIP_2019\PayRoll\PayRoll\obj\Debug\PayRoll.frmSalary.resources
+D:\Manish\VB @VTA_DIP_2019\PayRoll\PayRoll\obj\Debug\PayRoll.Resources.resources
+D:\Manish\VB @VTA_DIP_2019\PayRoll\PayRoll\obj\Debug\PayRoll.vbproj.GenerateResource.Cache
+D:\MP_ Works\My Dev Projects\Vb .net\PayRoll\PayRoll\bin\Debug\PayRoll.exe.config
+D:\MP_ Works\My Dev Projects\Vb .net\PayRoll\PayRoll\bin\Debug\PayRoll.exe
+D:\MP_ Works\My Dev Projects\Vb .net\PayRoll\PayRoll\bin\Debug\PayRoll.pdb
+D:\MP_ Works\My Dev Projects\Vb .net\PayRoll\PayRoll\bin\Debug\PayRoll.xml
+D:\MP_ Works\My Dev Projects\Vb .net\PayRoll\PayRoll\obj\Debug\PayRoll.vbproj.AssemblyReference.cache
+D:\MP_ Works\My Dev Projects\Vb .net\PayRoll\PayRoll\obj\Debug\PayRoll.vbproj.SuggestedBindingRedirects.cache
+D:\MP_ Works\My Dev Projects\Vb .net\PayRoll\PayRoll\obj\Debug\PayRoll.frmLogin.resources
+D:\MP_ Works\My Dev Projects\Vb .net\PayRoll\PayRoll\obj\Debug\PayRoll.frmSalary.resources
+D:\MP_ Works\My Dev Projects\Vb .net\PayRoll\PayRoll\obj\Debug\PayRoll.Resources.resources
+D:\MP_ Works\My Dev Projects\Vb .net\PayRoll\PayRoll\obj\Debug\PayRoll.vbproj.GenerateResource.cache
+D:\MP_ Works\My Dev Projects\Vb .net\PayRoll\PayRoll\obj\Debug\PayRoll.vbproj.CoreCompileInputs.cache
+D:\MP_ Works\My Dev Projects\Vb .net\PayRoll\PayRoll\obj\Debug\PayRoll.exe
+D:\MP_ Works\My Dev Projects\Vb .net\PayRoll\PayRoll\obj\Debug\PayRoll.xml
+D:\MP_ Works\My Dev Projects\Vb .net\PayRoll\PayRoll\obj\Debug\PayRoll.pdb
+D:\MP_ Works\My Dev Projects\Vb .net\payroll-system - Copy\PayRoll\bin\Debug\PayRoll.exe.config
+D:\MP_ Works\My Dev Projects\Vb .net\payroll-system - Copy\PayRoll\bin\Debug\PayRoll.exe
+D:\MP_ Works\My Dev Projects\Vb .net\payroll-system - Copy\PayRoll\bin\Debug\PayRoll.pdb
+D:\MP_ Works\My Dev Projects\Vb .net\payroll-system - Copy\PayRoll\bin\Debug\PayRoll.xml
+D:\MP_ Works\My Dev Projects\Vb .net\payroll-system - Copy\PayRoll\obj\Debug\PayRoll.vbproj.AssemblyReference.cache
+D:\MP_ Works\My Dev Projects\Vb .net\payroll-system - Copy\PayRoll\obj\Debug\PayRoll.vbproj.SuggestedBindingRedirects.cache
+D:\MP_ Works\My Dev Projects\Vb .net\payroll-system - Copy\PayRoll\obj\Debug\PayRoll.frmLogin.resources
+D:\MP_ Works\My Dev Projects\Vb .net\payroll-system - Copy\PayRoll\obj\Debug\PayRoll.frmSalary.resources
+D:\MP_ Works\My Dev Projects\Vb .net\payroll-system - Copy\PayRoll\obj\Debug\PayRoll.Resources.resources
+D:\MP_ Works\My Dev Projects\Vb .net\payroll-system - Copy\PayRoll\obj\Debug\PayRoll.vbproj.GenerateResource.cache
+D:\MP_ Works\My Dev Projects\Vb .net\payroll-system - Copy\PayRoll\obj\Debug\PayRoll.vbproj.CoreCompileInputs.cache
+D:\MP_ Works\My Dev Projects\Vb .net\payroll-system - Copy\PayRoll\obj\Debug\PayRoll.exe
+D:\MP_ Works\My Dev Projects\Vb .net\payroll-system - Copy\PayRoll\obj\Debug\PayRoll.xml
+D:\MP_ Works\My Dev Projects\Vb .net\payroll-system - Copy\PayRoll\obj\Debug\PayRoll.pdb
